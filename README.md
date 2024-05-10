@@ -1,9 +1,19 @@
-# About ATMS523 Repository
+# Analysis of Fires >200 Hectares in Canada: Impact of Climate Indices
 
-All the code for my spring semester at the University of Illinois Urbana-Champaign will be stored in this repository.
+### Overview
 
-Project Topics are: 
-1) ...
-2) ...
+This project aims to analyze wildfire data using Jupyter Notebook. It includes data preprocessing, exploratory data analysis, model training, evaluation, and visualization.
 
-If you have any questions, feel free to reach out to me.
+### Requirements
+
+- Python 3
+- Jypyter Notebook
+- Python libraries: pandas, geopandas, numpy, matplotlib, seaborn, scikit-learn
+
+### Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please let me know. 
+
+### License
+
+[MIT License](https://opensource.org/licenses/MIT)
